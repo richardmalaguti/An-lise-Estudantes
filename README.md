@@ -20,7 +20,7 @@ traduzi alguns valores no gráfico utilizando o Power Query, mudei o tipo das co
 formato correto, e não atrapalhar no momento das Análises, pratiquei o storytelling para deixar o gráfico com uma visualização atrativa e clara, sem 
 poluir com informações desnecessárias. A seguir, o resultado:
 
-
+![STUDENTDASH_2](https://github.com/user-attachments/assets/cf7a8370-7d05-4850-bf78-478744367cc6)
 
 # Habilidades Desenvolvidas:
 
