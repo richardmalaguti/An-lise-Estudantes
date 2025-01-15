@@ -11,6 +11,7 @@ algumas métricas importantes e habilidades principalmente no Storytelling.
 
 A seguir, a página inicial do projeto, que irá direcionar ao Dashboard.
 
+![STUDENTDASH_1](https://github.com/user-attachments/assets/8c1dfca6-706d-4dc0-9b68-9ddeac1da09a)
 
 # Dashboard dos Estudantes
 
